@@ -1,0 +1,98 @@
+{
+    "ResultsByTime": [
+        {
+            "TimePeriod": {
+                "Start": "2022-11-03",
+                "End": "2022-12-01"
+            },
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "23.5226372856",
+                    "Unit": "USD"
+                },
+                "UsageQuantity": {
+                    "Amount": "42577.4920549235",
+                    "Unit": "N/A"
+                },
+                "UnblendedCost": {
+                    "Amount": "23.5226372856",
+                    "Unit": "USD"
+                }
+            },
+            "Groups": [],
+            "Estimated": false
+        },
+        {
+            "TimePeriod": {
+                "Start": "2022-12-01",
+                "End": "2022-12-04"
+            },
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "3.9908366303",
+                    "Unit": "USD"
+                },
+                "UsageQuantity": {
+                    "Amount": "4373.6508843384",
+                    "Unit": "N/A"
+                },
+                "UnblendedCost": {
+                    "Amount": "3.9908366303",
+                    "Unit": "USD"
+                }
+            },
+            "Groups": [],
+            "Estimated": true
+        }
+    ],
+    "DimensionValueAttributes": []
+}
+{
+    "ResultsByTime": [
+        {
+            "TimePeriod": {
+                "Start": "2022-11-03",
+                "End": "2022-12-01"
+            },
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "23.5226372856",
+                    "Unit": "USD"
+                },
+                "UsageQuantity": {
+                    "Amount": "42577.4920549235",
+                    "Unit": "N/A"
+                },
+                "UnblendedCost": {
+                    "Amount": "23.5226372856",
+                    "Unit": "USD"
+                }
+            },
+            "Groups": [],
+            "Estimated": false
+        },
+        {
+            "TimePeriod": {
+                "Start": "2022-12-01",
+                "End": "2022-12-04"
+            },
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "3.9908366303",
+                    "Unit": "USD"
+                },
+                "UsageQuantity": {
+                    "Amount": "4373.6508843384",
+                    "Unit": "N/A"
+                },
+                "UnblendedCost": {
+                    "Amount": "3.9908366303",
+                    "Unit": "USD"
+                }
+            },
+            "Groups": [],
+            "Estimated": true
+        }
+    ],
+    "DimensionValueAttributes": []
+}
